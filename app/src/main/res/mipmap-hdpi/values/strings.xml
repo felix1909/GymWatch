@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GymWatch</string>
+    <string name="action_settings">Settings</string>
+    <string name="workout_dialog_text">Input Workout Name:</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="workout_name_txt_input" />
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+</resources>
